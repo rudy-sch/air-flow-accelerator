@@ -11,4 +11,4 @@ The test results show the fan system can control the exhaust fan in three differ
 Noise produced by the exhaust fan is below 55 dB. The device can be controlled with smartphone using Bluetooth communication from a distance within 5 meters with wall barrier.
 The sensor subsystem can provide reading results with an accuracy rate above 82%. The power supply system successfully supplies power to the entire system properly. Casing made for the system can not be made dustproof and resistant to water droplets.
 
-
+final project air flow accelerator.ino file is the entire source code for this systems.
